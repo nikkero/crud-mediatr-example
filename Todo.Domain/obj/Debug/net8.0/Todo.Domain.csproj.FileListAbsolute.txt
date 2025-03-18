@@ -1,0 +1,11 @@
+D:\VS\mediatr.learn\Todo.Domain\bin\Debug\net8.0\Todo.Domain.deps.json
+D:\VS\mediatr.learn\Todo.Domain\bin\Debug\net8.0\Todo.Domain.dll
+D:\VS\mediatr.learn\Todo.Domain\bin\Debug\net8.0\Todo.Domain.pdb
+D:\VS\mediatr.learn\Todo.Domain\obj\Debug\net8.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\mediatr.learn\Todo.Domain\obj\Debug\net8.0\Todo.Domain.AssemblyInfoInputs.cache
+D:\VS\mediatr.learn\Todo.Domain\obj\Debug\net8.0\Todo.Domain.AssemblyInfo.cs
+D:\VS\mediatr.learn\Todo.Domain\obj\Debug\net8.0\Todo.Domain.csproj.CoreCompileInputs.cache
+D:\VS\mediatr.learn\Todo.Domain\obj\Debug\net8.0\Todo.Domain.dll
+D:\VS\mediatr.learn\Todo.Domain\obj\Debug\net8.0\refint\Todo.Domain.dll
+D:\VS\mediatr.learn\Todo.Domain\obj\Debug\net8.0\Todo.Domain.pdb
+D:\VS\mediatr.learn\Todo.Domain\obj\Debug\net8.0\ref\Todo.Domain.dll

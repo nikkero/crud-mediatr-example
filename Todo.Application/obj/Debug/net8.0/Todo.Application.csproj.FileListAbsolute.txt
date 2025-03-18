@@ -1,0 +1,17 @@
+D:\VS\mediatr.learn\Todo.Application\bin\Debug\net8.0\Todo.Application.deps.json
+D:\VS\mediatr.learn\Todo.Application\bin\Debug\net8.0\Todo.Application.dll
+D:\VS\mediatr.learn\Todo.Application\bin\Debug\net8.0\Todo.Application.pdb
+D:\VS\mediatr.learn\Todo.Application\bin\Debug\net8.0\Todo.Domain.dll
+D:\VS\mediatr.learn\Todo.Application\bin\Debug\net8.0\Todo.Persistence.dll
+D:\VS\mediatr.learn\Todo.Application\bin\Debug\net8.0\Todo.Domain.pdb
+D:\VS\mediatr.learn\Todo.Application\bin\Debug\net8.0\Todo.Persistence.pdb
+D:\VS\mediatr.learn\Todo.Application\obj\Debug\net8.0\Todo.Application.csproj.AssemblyReference.cache
+D:\VS\mediatr.learn\Todo.Application\obj\Debug\net8.0\Todo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\mediatr.learn\Todo.Application\obj\Debug\net8.0\Todo.Application.AssemblyInfoInputs.cache
+D:\VS\mediatr.learn\Todo.Application\obj\Debug\net8.0\Todo.Application.AssemblyInfo.cs
+D:\VS\mediatr.learn\Todo.Application\obj\Debug\net8.0\Todo.Application.csproj.CoreCompileInputs.cache
+D:\VS\mediatr.learn\Todo.Application\obj\Debug\net8.0\Todo.App.468A55F7.Up2Date
+D:\VS\mediatr.learn\Todo.Application\obj\Debug\net8.0\Todo.Application.dll
+D:\VS\mediatr.learn\Todo.Application\obj\Debug\net8.0\refint\Todo.Application.dll
+D:\VS\mediatr.learn\Todo.Application\obj\Debug\net8.0\Todo.Application.pdb
+D:\VS\mediatr.learn\Todo.Application\obj\Debug\net8.0\ref\Todo.Application.dll

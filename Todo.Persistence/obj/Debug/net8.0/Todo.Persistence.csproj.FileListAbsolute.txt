@@ -1,0 +1,15 @@
+D:\VS\mediatr.learn\Todo.Persistence\bin\Debug\net8.0\Todo.Persistence.deps.json
+D:\VS\mediatr.learn\Todo.Persistence\bin\Debug\net8.0\Todo.Persistence.dll
+D:\VS\mediatr.learn\Todo.Persistence\bin\Debug\net8.0\Todo.Persistence.pdb
+D:\VS\mediatr.learn\Todo.Persistence\bin\Debug\net8.0\Todo.Domain.dll
+D:\VS\mediatr.learn\Todo.Persistence\bin\Debug\net8.0\Todo.Domain.pdb
+D:\VS\mediatr.learn\Todo.Persistence\obj\Debug\net8.0\Todo.Persistence.csproj.AssemblyReference.cache
+D:\VS\mediatr.learn\Todo.Persistence\obj\Debug\net8.0\Todo.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\mediatr.learn\Todo.Persistence\obj\Debug\net8.0\Todo.Persistence.AssemblyInfoInputs.cache
+D:\VS\mediatr.learn\Todo.Persistence\obj\Debug\net8.0\Todo.Persistence.AssemblyInfo.cs
+D:\VS\mediatr.learn\Todo.Persistence\obj\Debug\net8.0\Todo.Persistence.csproj.CoreCompileInputs.cache
+D:\VS\mediatr.learn\Todo.Persistence\obj\Debug\net8.0\Todo.Per.1B93005A.Up2Date
+D:\VS\mediatr.learn\Todo.Persistence\obj\Debug\net8.0\Todo.Persistence.dll
+D:\VS\mediatr.learn\Todo.Persistence\obj\Debug\net8.0\refint\Todo.Persistence.dll
+D:\VS\mediatr.learn\Todo.Persistence\obj\Debug\net8.0\Todo.Persistence.pdb
+D:\VS\mediatr.learn\Todo.Persistence\obj\Debug\net8.0\ref\Todo.Persistence.dll
